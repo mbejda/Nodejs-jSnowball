@@ -24,7 +24,12 @@ The Snowball stemmer can be found on their homepage. http://snowball.tartarus.or
 
 ## Installation
 The Snowball stemmer uses *Node-Java* internally. Make sure your system is configured properly to run *Node-Java*.
-https://github.com/joeferner/node-java
+https://github.com/joeferner/node-java<br>
+
+```
+npm install jsnowball --save
+```
+
 <hr>
 
 ## Usage
